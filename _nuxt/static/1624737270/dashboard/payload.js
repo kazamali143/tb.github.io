@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dashboard", {data:[{title:"Dashboard Page"}],fetch:{},mutations:void 0});
